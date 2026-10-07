@@ -6,5 +6,6 @@ int main()
     //// ↓おまじない。消さないように
     //system("chcp 65001 > nul"); // コンソールをUTF-8にする設定
     printf("Hello World!!!\n");
+	printf("こんにちは世界!!!\n");
     return 0;
 }
